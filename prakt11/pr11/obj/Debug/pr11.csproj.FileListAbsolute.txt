@@ -1,0 +1,8 @@
+C:\Users\na_alekhin\source\repos\pr11\pr11\bin\Debug\pr11.exe.config
+C:\Users\na_alekhin\source\repos\pr11\pr11\bin\Debug\pr11.exe
+C:\Users\na_alekhin\source\repos\pr11\pr11\bin\Debug\pr11.pdb
+C:\Users\na_alekhin\source\repos\pr11\pr11\obj\Debug\pr11.csproj.AssemblyReference.cache
+C:\Users\na_alekhin\source\repos\pr11\pr11\obj\Debug\pr11.csproj.SuggestedBindingRedirects.cache
+C:\Users\na_alekhin\source\repos\pr11\pr11\obj\Debug\pr11.csproj.CoreCompileInputs.cache
+C:\Users\na_alekhin\source\repos\pr11\pr11\obj\Debug\pr11.exe
+C:\Users\na_alekhin\source\repos\pr11\pr11\obj\Debug\pr11.pdb
